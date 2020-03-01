@@ -1,4 +1,5 @@
 # BeerAdviser
-headfist Android chap2
+headfirst Android chap2
 
-this is the self practice project for android studio using headfirst andorid book 
+this is the self practice project for android studio using headfirst android book
+
